@@ -1,0 +1,4 @@
+com\cts\authorization\AuthorizationApplicationTests.class
+com\cts\authorization\service\MyUserDetailsServiceTest.class
+com\cts\authorization\service\UserServiceTest.class
+com\cts\authorization\service\MyUserDetailsTest.class
